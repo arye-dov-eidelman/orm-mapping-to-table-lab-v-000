@@ -6,4 +6,8 @@ class Student
     @name = name
     @grade = grade
   end
+
+  def create_table
+
+  end
 end
