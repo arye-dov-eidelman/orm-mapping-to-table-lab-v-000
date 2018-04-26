@@ -2,6 +2,7 @@
 
 ## Objectives
 
+
 1. Write a class that is mapped, or equated, to a database table. 
 2. Build a method that creates a table that maps to the given class. 
 3. Write a method that drops that table. 
